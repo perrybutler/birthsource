@@ -1,7 +1,9 @@
 BirthSource.info
 ================
 
-BirthSource.info has been developed as a platform (currently a custom theme) built around the WordPress CMS. It's an ongoing project we will eventually convert to Github for crowdsourcing purposes.
+Developed as a platform (currently a custom theme) built around the WordPress CMS. It's an ongoing project we will eventually convert to Github for crowdsourcing purposes.
+
+![BirthSource](http://www.birthsource.info/wp-content/themes/birthsource/images/title.png)
 
 A hub for high quality childbirth information
 =============================================
