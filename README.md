@@ -5,6 +5,8 @@ BirthSource
 
 BirthSource is the social platform behind BirthSource.info. The current platform architecture consists of a custom theme for WordPress (a content management system) primarily due to the ease of use in regards to the target demographic.
 
+Development is funded by a Knowledge Translation grant from the Canadian Institutes of Health Research.
+
 ![BirthSource Title](http://www.birthsource.info/wp-content/themes/birthsource/images/title.png)
 
 BirthSource.info is a research-based, community-driven source for high quality pregnancy and childbirth information.
