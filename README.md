@@ -11,7 +11,8 @@ Development is funded by a Knowledge Translation grant from the Canadian Institu
 
 * Custom OpenID/OAuth 2.0 login system with IP-based throttling that integrates with the WordPress core users system
 * Custom multi-criteria rating system for all user-submitted content that integrates with WordPress custom post types
-* Custom likert scale/5-star rating widgets, custom comment voting (up/down similar to reddit.com) that integrates with the WordPress core comments system
+* Custom likert scale/5-star rating widgets
+* Custom comment voting (up/down similar to reddit.com) that integrates with the WordPress core comments system
 * Custom sorting/filtering for all user-submitted content
 
 ![BirthSource Title](http://www.birthsource.info/wp-content/themes/birthsource/images/title.png)
