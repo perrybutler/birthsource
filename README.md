@@ -14,8 +14,8 @@ Development is funded by a Knowledge Translation grant from the Canadian Institu
 * 7-criteria rating system for all Birth Links (frontend).
 * Advanced AJAX sorting/filtering for all Birth Links (frontend).
 * Likert scale/5-star rating widgets.
-* Custom comment voting (up/down similar to reddit.com) that integrates with the WordPress core comments system.
-* Custom frontend integration of traditionally backend-only features such as a custom Edit Profile page and a custom Insert Post (Add a Link) page.
+* Comment voting (up/down similar to reddit.com) that integrates with the WordPress core comments system.
+* Frontend integration of traditionally backend-only features such as a custom Edit Profile page and a custom Insert Post (Add a Link) page.
 
 ![BirthSource Title](http://www.birthsource.info/wp-content/themes/birthsource/images/title.png)
 
