@@ -7,13 +7,13 @@ BirthSource is the social platform behind BirthSource.info. The current platform
 
 Development is funded by a Knowledge Translation grant from the Canadian Institutes of Health Research.
 
-**Fresh Technology**
+**Programmed from the ground up; every feature/component is a first-class citizen:**
 
-* Custom OpenID/OAuth 2.0 login system with IP-based throttling that integrates with the WordPress core users system.
+* OpenID/OAuth 2.0 login system with IP-based throttling that integrates with the WordPress core users system.
 * Custom post type integrates "Birth Links" for user-submitted content.
-* Custom 7-criteria rating system for all user-submitted content.
-* * Custom sorting/filtering for all user-submitted content.
-* Custom likert scale/5-star rating widgets.
+* 7-criteria rating system for all Birth Links (frontend).
+* Advanced AJAX sorting/filtering for all Birth Links (frontend).
+* Likert scale/5-star rating widgets.
 * Custom comment voting (up/down similar to reddit.com) that integrates with the WordPress core comments system.
 * Custom frontend integration of traditionally backend-only features such as a custom Edit Profile page and a custom Insert Post (Add a Link) page.
 
