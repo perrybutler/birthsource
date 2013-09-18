@@ -1,7 +1,7 @@
-![BirthSource Logo](http://www.birthsource.info/wp-content/themes/birthsource/images/logo.png)
-
 BirthSource
 ===========
+
+![BirthSource Logo](http://www.birthsource.info/wp-content/themes/birthsource/images/logo.png)
 
 BirthSource is the social platform behind BirthSource.info. The current platform architecture consists of a custom theme for WordPress (a content management system) primarily due to the ease of use in regards to the target demographic.
 
